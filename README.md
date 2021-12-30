@@ -17,3 +17,5 @@ Aggregates
 JOINING
 Complex Queries
 Complete .sql file of the db
+
+![image](https://user-images.githubusercontent.com/73735110/147754126-f1b27457-df01-42f6-ba03-c6be69c45282.png)
